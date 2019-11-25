@@ -1,0 +1,16 @@
+"have"	1
+"high"	1
+"john's"	1
+"cats"	3
+"cheese"	1
+"dogs"	2
+"eat"	2
+"five"	1
+"fleas"	1
+"3"	1
+"and"	3
+"mice"	3
+"raining"	1
+"1"	1
+"123"	2
+"2"	1
